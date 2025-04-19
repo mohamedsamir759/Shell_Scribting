@@ -1,4 +1,3 @@
-# Shell_Scribting
 scribt.sh
 Automated Daily System Backup Script
 
